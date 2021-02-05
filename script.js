@@ -1,4 +1,6 @@
 function start(){
+
+    $("body").css("background-color", "yellow");
     
     $("#menu a:first").click();
     
